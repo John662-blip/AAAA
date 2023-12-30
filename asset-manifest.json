@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AAAA/static/css/main.a31338ea.css",
+    "main.js": "/AAAA/static/js/main.669d0bbc.js",
+    "static/media/—Pngtree—heart love pink hearts shape_3585972.png": "/AAAA/static/media/—Pngtree—heart love pink hearts shape_3585972.0fb2eede1099519047a3.png",
+    "static/media/SHPinscher-Regular.otf": "/AAAA/static/media/SHPinscher-Regular.d72b6f2835729969d530.otf",
+    "static/media/Christmas Glitter ttf.ttf": "/AAAA/static/media/Christmas Glitter ttf.6ed60592dd66cf76ec67.ttf",
+    "index.html": "/AAAA/index.html",
+    "main.a31338ea.css.map": "/AAAA/static/css/main.a31338ea.css.map",
+    "main.669d0bbc.js.map": "/AAAA/static/js/main.669d0bbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31338ea.css",
+    "static/js/main.669d0bbc.js"
+  ]
+}
